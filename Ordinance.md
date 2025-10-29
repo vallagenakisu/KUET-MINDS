@@ -1,4 +1,5 @@
-# Ordinance for the Formation and Operation of the Machine Learning and Deep Learning (ML/DL) Club
+# Ordinance for the Formation and Operation of the "Machine Intelligence & Deep learning Society" 
+# 
 ## Khulna University of Engineering and Technology (KUET)
 
 ---
@@ -9,7 +10,7 @@ The name of the club shall be **Machine Intelligence & Deep learning Society (MI
 ---
 
 ## 2. Affiliation
-The Club shall operate under the supervision of the Department of Computer Science and Engineering (CSE), Khulna University of Engineering and Technology (KUET).
+The Club shall operate under the supervision of the Department of Computer Science and Engineering (CSE), Khulna University of Engineering & Technology (KUET).
 
 ---
 
@@ -19,7 +20,7 @@ To build a strong, collaborative, and research-driven community of students pass
 ---
 
 ## 4. Mission
-- To create a structured platform for learning and applying concepts of ML/DL and Computer Vision.
+- To create a structured platform for learning and applying concepts of Machine Learning/Deep Learning.
 - To encourage and mentor students in participating in national and international competitions.
 - To introduce and engage students early in research and academic publications.
 - To foster collaboration between students, faculty, and external researchers.
@@ -28,7 +29,7 @@ To build a strong, collaborative, and research-driven community of students pass
 ---
 
 ## 5. Objectives
-1. Conduct workshops, classes, and knowledge-sharing sessions on ML/DL fundamentals and advanced topics.
+1. Conduct workshops, classes, and knowledge-sharing sessions on Machine Learning/Deep Learning fundamental and advance topics
 2. Organize training programs and mentoring for competitive events in National and International domains.
 3. Promote interdisciplinary research and facilitate collaborations with faculty members and external institutions.
 4. Support students in producing quality research papers and publishing in reputed conferences and journals.
@@ -55,12 +56,18 @@ The Executive Committee shall be responsible for managing and administering the 
 - President
 - Vice President (Research)
 - Vice President (Competition and Events)
+- Vice President (Computer Vision)
+- Vice President (Natural Language Processing)
 - General Secretary
 - Joint Secretary
 - Treasurer
 - Public Relations Officer
 - Event Coordinator(s)
-- Technical Leads / Sub-domain Leads (ML, DL, CV, NLP, etc.)
+- Sub-domain Leads (Machine Learning)
+- Sub-domain Leads (Deep Learning)
+- Sub-domain Leads (Computer Vision)
+- Sub-domain Leads (Natural Language Processing)
+- Technical Leads
 
 ### Duties:
 - The **President** shall oversee all club operations and represent the Club in official matters.
@@ -95,7 +102,6 @@ The Executive Committee shall be responsible for managing and administering the 
 3. Higher-ranking members shall receive priority in opportunities such as leadership roles, team selections, research collaborations, and competition representation.
 
 ---
-
 ## 10. Rules and Code of Conduct
 1. Missing three consecutive general meetings without a valid reason will result in termination of membership.
 2. Cheating or unethical conduct during any competition will lead to immediate dismissal from the club.
@@ -117,14 +123,14 @@ The advisors shall:
 
 ## 12. Meetings
 1. The Executive Committee shall meet at least once every month to review activities and progress.
-2. A general meeting involving all members shall be held at least once every semester.
-3. Special meetings may be convened as necessary with the consent of the President or Faculty Advisor.
+2. A general meeting involving all members shall be held twice a month.
+3. Special meetings may be convened as necessary with the consent of the President and Faculty Advisor.
 
 ---
 
 ## 13. Finance and Resources
 1. The Club shall be a non-profit organization.
-2. Funds may be generated through university allocations, membership fees, sponsorships, or events.
+2. Funds may be generated through university allocations, membership fees, sponsorships, events or funding.
 3. All financial transactions shall be approved by the Treasurer and Faculty Advisor.
 4. Proper records of income and expenditure must be maintained and audited annually.
 
