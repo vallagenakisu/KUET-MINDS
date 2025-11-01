@@ -99,6 +99,10 @@ KUET-MINDS/
 - Release of Computer Vision Syllabus
 - Updated documentation and repository structure
 
+### v1.1.0.1 - November 2025
+- Ordinance updated
+- Committee roles and descriptions modified
+
 
 ## Contributing
 
