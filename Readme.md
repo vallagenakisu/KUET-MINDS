@@ -118,6 +118,10 @@ KUET-MINDS/
 - Release of Computer Vision Syllabus
 - Updated documentation and repository structure
 
+### v1.1.0.1 - November 2025
+- Ordinance updated
+- Committee roles and descriptions modified
+- 
 ### v1.2.0.0 - November 2025
 - **NEW**: Kaggle Competition Mastery Syllabus (20-24 weeks)
 - Complete pathway from Python beginner to competition master
