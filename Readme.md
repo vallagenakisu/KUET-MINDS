@@ -4,7 +4,7 @@
 
 This repository contains the official curriculum documentation and learning materials for **KUET-MINDS** - a comprehensive educational program covering Machine Learning, Natural Language Processing, and Computer Vision. Our structured approach ensures students progress from fundamentals to advanced concepts through hands-on projects and practical implementations.
 
-## Current Version: v1.0.0.0
+## Current Version: v1.1.0.0
 
 ### Version Format
 We follow semantic versioning for our documentation:
