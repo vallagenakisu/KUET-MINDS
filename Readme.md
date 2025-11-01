@@ -2,9 +2,9 @@
 
 ## About
 
-This repository contains the official curriculum documentation and learning materials for **KUET-MINDS** - a comprehensive educational program covering Machine Learning, Natural Language Processing, and Computer Vision. Our structured approach ensures students progress from fundamentals to advanced concepts through hands-on projects and practical implementations.
+This repository contains the official curriculum documentation and learning materials for **KUET-MINDS** - a comprehensive educational program covering Machine Learning, Natural Language Processing, Computer Vision, and Competitive Machine Learning. Our structured approach ensures students progress from fundamentals to advanced concepts through hands-on projects, practical implementations, and real-world competition participation.
 
-## Current Version: v1.1.0.0
+## Current Version: v1.2.0.0
 
 ### Version Format
 We follow semantic versioning for our documentation:
@@ -14,12 +14,14 @@ We follow semantic versioning for our documentation:
 - **Patch (0)**: Content updates, corrections, and improvements
 - **Build (0)**: Minor fixes, typos, and formatting adjustments
 
-### What's Included in v1.1.0.0
+### What's Included in v1.2.0.0
 - Complete Machine Learning Syllabus (3 Levels)
 - Natural Language Processing Curriculum (3 Levels) 
-- Computer Vision Syllabus (3 Levels)
+- Computer Vision Syllabus (4 Parts)
+- **NEW**: Kaggle Competition Mastery Syllabus (6 Phases, 20-24 Weeks)
 - Structured learning paths with prerequisites
 - Hands-on projects and evaluation frameworks
+- Competition-focused training from beginner to international level
 
 ## Course Structure
 
@@ -45,6 +47,18 @@ We follow semantic versioning for our documentation:
 3. **Level 3**: Generative Vision Models
 4. **Level 4**: Motion & 3D Vision
 
+### Kaggle Competition Mastery Track
+**Duration**: 20-24 weeks | **Competitions**: 10+ | **Phases**: 6
+
+1. **Phase 1**: Python Foundations & Data Manipulation (3 weeks)
+2. **Phase 2**: Competition Fundamentals (4 weeks)
+3. **Phase 3**: Advanced Competition Techniques (4 weeks)
+4. **Phase 4**: Deep Learning for Competitions (4 weeks)
+5. **Phase 5**: Competition Mastery (3-4 weeks)
+6. **Phase 6**: International Competition Preparation (2-4 weeks)
+
+**Target**: Transform beginners into Kaggle Masters ready for VIP Cup and international competitions
+
 ## Learning Outcomes
 
 Upon completion, students will be able to:
@@ -53,6 +67,9 @@ Upon completion, students will be able to:
 - Apply state-of-the-art models (BERT, GPT, Transformers, Vision Transformers)
 - Create portfolio-ready projects with proper evaluation
 - Transition smoothly into specialized AI domains
+- **NEW**: Compete in Kaggle and international ML competitions
+- **NEW**: Implement advanced ensemble techniques and competition strategies
+- **NEW**: Achieve Kaggle Expert/Master tier rankings
 
 ## Prerequisites
 
@@ -67,6 +84,7 @@ Upon completion, students will be able to:
 - **ML Track**: Data structures, OOP concepts
 - **NLP Track**: ML fundamentals, classification/regression concepts
 - **CV Track**: ML fundamentals, image processing basics
+- **Competition Track**: Python basics (covered in Phase 1), commitment to regular practice
 
 ## Getting Started
 
@@ -82,8 +100,9 @@ Upon completion, students will be able to:
 KUET-MINDS/
 ├── Common ML Syllabus.md          # Machine Learning curriculum
 ├── NLP Syllabus.md                # Natural Language Processing curriculum  
-├── CV Syllabus.md                 # Computer Vision curriculum
-├── assessments/                   # Evaluation criteria and rubrics
+├── Computer Vision.md             # Computer Vision curriculum
+├── Kaggle Competition Syllabus.md # Competition-focused training curriculum
+├── Ordinance.md                   # Club rules and regulations
 └── README.md                      # This documentation
 ```
 
@@ -98,6 +117,13 @@ KUET-MINDS/
 ### v1.1.0.0 - November 2025
 - Release of Computer Vision Syllabus
 - Updated documentation and repository structure
+
+### v1.2.0.0 - November 2025
+- **NEW**: Kaggle Competition Mastery Syllabus (20-24 weeks)
+- Complete pathway from Python beginner to competition master
+- Integration with existing ML/NLP/CV syllabuses
+- Competition strategies, techniques, and real-world project guidelines
+- Targets Kaggle Expert/Master tier and international competitions (VIP Cup, etc.)
 
 
 ## Contributing
