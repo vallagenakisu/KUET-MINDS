@@ -4,7 +4,7 @@
 
 This repository contains the official curriculum documentation and learning materials for **KUET-MINDS** - a comprehensive educational program covering Machine Learning, Natural Language Processing, Computer Vision, and Competitive Machine Learning. Our structured approach ensures students progress from fundamentals to advanced concepts through hands-on projects, practical implementations, and real-world competition participation.
 
-## Current Version: v1.2.0.0
+## Current Version: v1.3.0.0
 
 ### Version Format
 We follow semantic versioning for our documentation:
@@ -14,11 +14,13 @@ We follow semantic versioning for our documentation:
 - **Patch (0)**: Content updates, corrections, and improvements
 - **Build (0)**: Minor fixes, typos, and formatting adjustments
 
-### What's Included in v1.2.0.0
+### What's Included in v1.3.0.0
 - Complete Machine Learning Syllabus (3 Levels)
 - Natural Language Processing Curriculum (3 Levels) 
 - Computer Vision Syllabus (4 Parts)
-- **NEW**: Kaggle Competition Mastery Syllabus (6 Phases, 20-24 Weeks)
+- Kaggle Competition Mastery Syllabus (6 Phases, 20-24 Weeks)
+- **NEW**: Updated Club Ordinance with restructured Executive Committee
+- **NEW**: Comprehensive role definitions and duties for all executive positions
 - Structured learning paths with prerequisites
 - Hands-on projects and evaluation frameworks
 - Competition-focused training from beginner to international level
@@ -119,11 +121,18 @@ KUET-MINDS/
 - Updated documentation and repository structure
 
 ### v1.2.0.0 - November 2025
-- **NEW**: Kaggle Competition Mastery Syllabus (20-24 weeks)
+- Kaggle Competition Mastery Syllabus (20-24 weeks)
 - Complete pathway from Python beginner to competition master
 - Integration with existing ML/NLP/CV syllabuses
 - Competition strategies, techniques, and real-world project guidelines
 - Targets Kaggle Expert/Master tier and international competitions (VIP Cup, etc.)
+
+### v1.3.0.0 - November 2025
+- **UPDATED**: Club Ordinance with expanded Executive Committee structure
+- **NEW**: Detailed role definitions and responsibilities for all executive positions
+- Added Sub-domain Lead and Co-Lead positions for specialized mentorship
+- Enhanced leadership hierarchy with clear duties for each role
+- Improved organizational structure for better club operations and member guidance
 
 
 ## Contributing
