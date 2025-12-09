@@ -4,7 +4,7 @@
 
 This repository contains the official curriculum documentation and learning materials for **KUET-MINDS** - a comprehensive educational program covering Machine Learning, Natural Language Processing, Computer Vision, and Competitive Machine Learning. Our structured approach ensures students progress from fundamentals to advanced concepts through hands-on projects, practical implementations, and real-world competition participation.
 
-## Current Version: v1.2.0.0
+## Current Version: v1.3.0.0
 
 ### Version Format
 We follow semantic versioning for our documentation:
@@ -14,11 +14,12 @@ We follow semantic versioning for our documentation:
 - **Patch (0)**: Content updates, corrections, and improvements
 - **Build (0)**: Minor fixes, typos, and formatting adjustments
 
-### What's Included in v1.2.0.0
+### What's Included in v1.3.0.0
 - Complete Machine Learning Syllabus (3 Levels)
-- Natural Language Processing Curriculum (3 Levels) 
+- Natural Language Processing Curriculum (3 Levels with Exams)
+- Deep Learning Syllabus (3 Levels) - Feed-Forward Networks, RNNs, and Generative AI
 - Computer Vision Syllabus (4 Parts)
-- **NEW**: Kaggle Competition Mastery Syllabus (6 Phases, 20-24 Weeks)
+- Kaggle Competition Mastery Syllabus (6 Phases, 20-24 Weeks)
 - Structured learning paths with prerequisites
 - Hands-on projects and evaluation frameworks
 - Competition-focused training from beginner to international level
@@ -33,11 +34,18 @@ We follow semantic versioning for our documentation:
 3. **Level 3**: Deep Learning Foundations - PyTorch and neural network training
 
 ### Natural Language Processing Track  
-**Duration**: 18+ days | **Projects**: 2 | **Levels**: 3
+**Duration**: 24+ days | **Projects**: 2 | **Exams**: 2 | **Levels**: 3
 
-1. **Level 1**: ABCD of NLP - Text preprocessing and basic techniques
-2. **Level 2**: Context Matters - Deep learning and sequence models
-3. **Level 3**: Attention is All You Need - Transformers and modern NLP
+1. **Level 1**: ABCD of NLP - Text preprocessing, text representation, and classical ML
+2. **Level 2**: Context Matters - Deep learning, word embeddings, and sequence models
+3. **Level 3**: Attention is All You Need - Transformers, LLMs, and fine-tuning techniques
+
+### Deep Learning Track
+**Duration**: 21+ days | **Projects**: 6 | **Levels**: 3
+
+1. **Level 1**: Foundations of Deep Learning & Feed-Forward Networks - Neural networks from scratch, PyTorch basics, and CNNs
+2. **Level 2**: Recurrent Neural Networks & Sequence Modeling - RNNs, LSTMs, attention mechanisms, and Seq2Seq
+3. **Level 3**: Generative AI - Autoencoders, GANs, Diffusion Models, and Multimodal Generation
 
 ### Computer Vision Track
 **Duration**: 18+ days | **Projects**: 2 | **Levels**: 3
@@ -65,11 +73,13 @@ Upon completion, students will be able to:
 - Build end-to-end ML/NLP/CV pipelines from scratch
 - Implement neural networks using PyTorch and TensorFlow
 - Apply state-of-the-art models (BERT, GPT, Transformers, Vision Transformers)
+- **NEW**: Build generative models (GANs, Autoencoders, Diffusion Models)
+- **NEW**: Implement LLMs and fine-tune using LoRA/QLoRA techniques
 - Create portfolio-ready projects with proper evaluation
 - Transition smoothly into specialized AI domains
-- **NEW**: Compete in Kaggle and international ML competitions
-- **NEW**: Implement advanced ensemble techniques and competition strategies
-- **NEW**: Achieve Kaggle Expert/Master tier rankings
+- Compete in Kaggle and international ML competitions
+- Implement advanced ensemble techniques and competition strategies
+- Achieve Kaggle Expert/Master tier rankings
 
 ## Prerequisites
 
@@ -82,14 +92,15 @@ Upon completion, students will be able to:
 
 ### Track-Specific Prerequisites
 - **ML Track**: Data structures, OOP concepts
-- **NLP Track**: ML fundamentals, classification/regression concepts
+- **NLP Track**: ML fundamentals, classification/regression concepts, data preprocessing
+- **Deep Learning Track**: ML fundamentals, linear algebra, derivatives
 - **CV Track**: ML fundamentals, image processing basics
 - **Competition Track**: Python basics (covered in Phase 1), commitment to regular practice
 
 ## Getting Started
 
-1. **Choose Your Track**: Review prerequisites and select ML, NLP, or CV
-2. **Set Up Environment**: Install required Python libraries
+1. **Choose Your Track**: Review prerequisites and select ML, Deep Learning, NLP, CV, or Competition
+2. **Set Up Environment**: Install required Python libraries (PyTorch, TensorFlow, etc.)
 3. **Follow the Syllabus**: Complete each level sequentially
 4. **Build Projects**: Apply knowledge through hands-on implementations
 5. **Evaluate Progress**: Take assessments and review learning outcomes
@@ -99,7 +110,8 @@ Upon completion, students will be able to:
 ```
 KUET-MINDS/
 ├── Common ML Syllabus.md          # Machine Learning curriculum
-├── NLP Syllabus.md                # Natural Language Processing curriculum  
+├── NLP Syllabus.md                # Natural Language Processing curriculum
+├── Deep Learning Syllabus.md      # Deep Learning curriculum (NEW)
 ├── Computer Vision.md             # Computer Vision curriculum
 ├── Kaggle Competition Syllabus.md # Competition-focused training curriculum
 ├── Ordinance.md                   # Club rules and regulations
@@ -124,6 +136,12 @@ KUET-MINDS/
 - Integration with existing ML/NLP/CV syllabuses
 - Competition strategies, techniques, and real-world project guidelines
 - Targets Kaggle Expert/Master tier and international competitions (VIP Cup, etc.)
+
+### v1.3.0.0 - December 2025
+- **NEW**: Deep Learning Syllabus (3 Levels) - Feed-Forward Networks, RNNs, and Generative AI
+- Updated NLP Syllabus with formal exams and enhanced Level 3 (Transformers & LLMs)
+- Added comprehensive coverage of generative models (GANs, Diffusion Models, Multimodal Generation)
+- Enhanced learning outcomes with LLM fine-tuning techniques (LoRA/QLoRA)
 
 
 ## Contributing
